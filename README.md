@@ -1,2 +1,2 @@
-# C36-2-EEEEEEEEEEEEEEEEEEEEEE
-EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+# synchronousBallMovement
+Ball moving synchronously
